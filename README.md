@@ -2,7 +2,7 @@
 
 ## I'm a Python Developer
 
-- 🔭 I love japanese
+- 🔭 I love japanese language
 - 🌱 I love playing chess, guitar
 - 👯 I love python
 

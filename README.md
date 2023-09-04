@@ -1,10 +1,9 @@
 ### Hi there, I'm Ajay 👋
 
-## I'm a Python Developer
+## Software Engineer
 
-- 🔭 I love japanese language
-- 🌱 I love playing chess, guitar
-- 👯 I love python
+### Interests and hobbies
+Programming, Chess, Japanese, Manga, Astronomy
 
 ### Languages and Tools:
 
